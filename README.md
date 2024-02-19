@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdemarest47
 - 👀 I’m interested in Full stack web development (JS, TS, nodejs, deno)
-- 🌱 I’m currently learning Typescript, deno
+- 🌱 I’ve been working in node since 2015, TS since 2021
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
