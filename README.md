@@ -8,8 +8,8 @@ developer along the way.
 My work has been shipped inside printers (and their OS drivers), shrinkwrapped into boxed applications sold in software stores,
 delivered to browsers over the internet, and run inside corporate data centers to maintain critical data pipelines.
 
-I am most comfortable on the server-side (with a very strong database focus); but can also able to contribute on the client side
-to produce clean, concise user experiences.
+I am most comfortable on the server-side (with a very strong database focus); but can also contribute on the client side to produce
+clean, concise user experiences.
 
 I have found that any codebase can be improved by adding automated testing and targeted refactoring, and that it will be faster
 than switching to the latest / greatest technology trend (which will be replaced by a later/greater trend by the time you release).
