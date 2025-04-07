@@ -11,10 +11,14 @@ delivered to browsers over the internet, and run inside corporate data centers t
 I am most comfortable on the server-side (with a very strong database focus); but can also contribute on the client side to produce
 clean, concise user experiences.
 
-I have found that any codebase can be improved by adding automated testing and targeted refactoring, and that it will be faster
+Most of my work over the past decade has been helping rescue projects that have grown too quickly from prototype to production, and
+are becoming difficult to maintain. I pride myself on being able to produce clean, maintainable, well-documented code; and on zero-
+downtime upgrades to running systems. 
+
+I have found that any codebase can be improved by adding automated testing and targeted refactoring, and that doing so will be faster
 than switching to the latest / greatest technology trend (which will be replaced by a later/greater trend by the time you release).
 Test-driven development really does produce better code, and refining what you already have is almost always cheaper and more
-effective than any ground-up re-write.
+effective than any re-write.
 
 Reach me at:
  - tdemarest47@gmail.com
