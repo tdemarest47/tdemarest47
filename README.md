@@ -8,13 +8,17 @@ developer along the way.
 My work has been shipped inside printers (and their OS drivers), shrinkwrapped into boxed applications sold in software stores,
 delivered to browsers over the internet, and run inside corporate data centers to maintain critical data pipelines.
 
-I am most comfortable on the server-side (with a very strong database focus); but can also able to contribute on the client side
-to produce clean, concise user experiences.
+I am most comfortable on the server-side (with a very strong database focus); but can also contribute on the client side to produce
+clean, concise user experiences.
 
-I have found that any codebase can be improved by adding automated testing and targeted refactoring, and that it will be faster
+Most of my work over the past decade has been helping rescue projects that have grown too quickly from prototype to production, and
+are becoming difficult to maintain. I pride myself on being able to produce clean, maintainable, well-documented code; and on zero-
+downtime upgrades to running systems. 
+
+I have found that any codebase can be improved by adding automated testing and targeted refactoring, and that doing so will be faster
 than switching to the latest / greatest technology trend (which will be replaced by a later/greater trend by the time you release).
 Test-driven development really does produce better code, and refining what you already have is almost always cheaper and more
-effective than any ground-up re-write.
+effective than any re-write.
 
 Reach me at:
  - tdemarest47@gmail.com
@@ -22,6 +26,8 @@ Reach me at:
  - https://www.linkedin.com/in/timothy-demarest
 
 ## My Resume:  [resume.pdf](https://github.com/user-attachments/files/19636922/resume_2025_03.pdf)
+
+---
 
 ## web Portfolio
   - Unfortunately, you cannot reach very deeply into my portfolio... as most of my work lives behind paywalls.
@@ -65,7 +71,4 @@ Reach me at:
     - Data pipelines to deliver images uploaded through the website into internal data warehouse.
     - Data pipelines to deliver images from dedicated imaging hardware systems in the field into internal data warehouse.
     - Various internal study management tools used by in-house staff.
-
-
-
 
